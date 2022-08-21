@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{034BB375-67AB-7C13-9E45-A4D223481690}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/YongBehaviorTree/ReturnRunningToFailureNode.cs">
+    <Files>
+      <File FileName="Assets/YongBehaviorTree/SelectorNode.cs" Line="1" Column="1" />
+      <File FileName="Assets/YongBehaviorTree/AbstractNode.cs" />
+      <File FileName="Assets/YongBehaviorTree/RootNode.cs" />
+      <File FileName="Assets/YongBehaviorTree/BehaviorTreeBuilder.cs" />
+      <File FileName="Assets/YongBehaviorTree/WaitTimeNode.cs" />
+      <File FileName="Assets/YongBehaviorTree/ReturnRunningToFailureNode.cs" Line="1" Column="1" />
+      <File FileName="Assets/YongBehaviorTree/BehaviorTest.cs" Line="44" Column="1" NotebookId="1" />
+      <File FileName="Assets/BehaviorTree/RootNode.cs" NotebookId="1" />
+      <File FileName="Assets/BehaviorTree/BaseNode.cs" NotebookId="1" />
+      <File FileName="Library/PackageCache/com.unity.collab-proxy@1.15.18/Editor/PlasticSCM/PlasticApp.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudyCafe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BehaviorTree" expanded="True" />
+              <Node name="YongBehaviorTree" expanded="True">
+                <Node name="SelectorNode.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="746408cd-f885-4455-9a1a-39dc840becd4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
